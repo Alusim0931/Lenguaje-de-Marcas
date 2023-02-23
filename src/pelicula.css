@@ -1,0 +1,42 @@
+#pelicula2{
+    position: relative;
+    background-color: rgb(230,157,157);
+}
+
+portada[imagen="2"]{
+    display: block;
+    background-image: url(annie.jpg);
+    width: 200px;
+    height: 272px;
+    margin-right: 10px;
+}
+
+titulo, estreno, duracion, director{
+    display: block;
+    text-indent: 2em;
+    margin-top: 5px;
+    margin-left: 210px;
+    padding-top: 10;
+}
+
+titulo:before{
+    content: "Titulo: ";
+    text-decoration: underline;
+    font-weight: bold;
+}
+estreno:before{
+    content: "Estreno: ";
+    text-decoration: underline;
+    font-weight: bold;
+}
+duracion:before{
+    content: "Duracion: ";
+    text-decoration: underline;
+    font-weight: bold;
+}
+director:before{
+    content: "Director: ";
+    text-decoration: underline;
+    font-weight: bold;
+    
+}

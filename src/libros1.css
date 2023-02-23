@@ -1,0 +1,47 @@
+libreria{
+    display: flex;
+    flex-direction: column;
+}
+libro {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    background-color: pink;
+}
+
+nombre{
+    margin-top: 10px;
+    font-size: 40pt;
+    color: grey;
+}
+
+titulo::before{
+    content: "▪ ";
+}
+
+titulo{
+    font-weight: bold ;
+    font-size: 20pt;
+}
+
+nivel_de_profundidad,editorial,fecha_de_publicacion{
+    display: none;
+}
+
+isbn::before{
+    content: "ISBN: ";
+}
+
+autores::before{
+    content: "Autores: ";
+}
+
+precio::before{
+    content: "Precio: " ;
+}
+
+isbn,autores,precio{
+    font-size: large;
+    color: grey;
+    margin-left: 25px;
+}

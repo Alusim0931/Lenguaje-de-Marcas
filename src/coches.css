@@ -1,0 +1,15 @@
+
+vehiculo{
+    display: flex;
+    flex-direction: column ;
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightblue;
+}
+
+marca{
+    font-weight:bold ;
+    background-color: white;
+    border-bottom: 1px solid black;
+}

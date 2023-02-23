@@ -1,0 +1,77 @@
+/*filmoteca{
+    background: #FFD700;
+    display: block;
+    display: inline-table;
+    border: black solid;
+    background-color: white;
+    font-size: 14pt;
+    margin-top: 4em;
+    margin-left: 4em;
+}
+pelicula{
+    display: table-row;
+    background-color: #FFD700;
+}
+
+titulo, estreno, duracion, director{
+    display: table-cell;
+    border: thin solid;
+    text-indent: 2em;
+}/*
+
+/*director{
+    display: block;
+    font-style: italic;
+    text-indent: 2em;
+    color: Green;
+    font-size: small;
+}
+
+titulo:before{
+    content:"Titulo: ";
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+reparto{
+    display: block;
+}
+
+reparto:before{
+    content: "Reparto: ";
+    text-decoration: underline;
+}
+
+interprete{
+    display: block;
+    text-indent: 3em;
+    color: purple;
+}
+
+interprete[papel="protagonista"]{
+    font-style: italic;
+    font-weight: bold;
+}
+
+interprete[papel="protagonista"]:after{
+    content: " (protagonista)";
+    font-size: x-small;
+}
+interprete[papel="secundario"]:after{
+    content: " (secundario)";
+    font-size: x-small;
+}*/
+
+#pelicula2{
+    position: relative;
+    background-color: rgb(230,157,157);
+}
+
+portada[imagen="2"]{
+    display: block;
+    background-image: url(/images/annie.jpg);
+    width: 200px;
+    height: 272px;
+    margin-right: 10px;
+}

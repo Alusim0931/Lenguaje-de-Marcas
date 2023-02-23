@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="coches.css"?>
+<oferta>
+
+  <vehiculo>
+    <marca>Marca:  Ford</marca>
+    <modelo color="blanco">Modelo: Focus RS 2017</modelo>
+    <motor combustible="gasolina">Motor: duratorc 14  </motor>
+    <matricula>Matricula: 1234AAA</matricula>
+    <kilometros>Kilometros:  12500 </kilometros>
+    <precio_inicial>El precio inicial es de 12500&#8364;</precio_inicial>
+    <precio_oferta>Precio oferta 10000&#8364;</precio_oferta>
+    <extra valor="250">pintura metalizada</extra>
+    <extra valor="300">llantas</extra>
+    <foto imagen="fordblanco"/>
+    <foto imagen="fordblanco2"/>
+  </vehiculo>
+
+  <vehiculo>
+    <marca>Marca:  MERCEDES-BENZ</marca>
+	<modelo color="champagne">Modelo:  Clase CLA</modelo>
+	<motor combustible="diesel">CLA 200 d, 136cv</motor>
+    <matricula>Matricula: 0000BBB</matricula>
+	<kilometros>Kilometros:  3500 </kilometros>
+	<precio_inicial>El precio inicial es de 22500&#8364;</precio_inicial>
+	<precio_oferta>Precio oferta 20000&#8364;</precio_oferta>	
+    <extra valor="150">Navegador Garmin MAP PILOT</extra>
+    <extra valor="350">Techo corredizo panoramico</extra>	
+    <foto imagen="mercedes"/>
+    <foto imagen="mercedes2"/>
+  </vehiculo>
+ 
+</oferta>
