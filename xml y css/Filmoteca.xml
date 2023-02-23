@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="Filmoteca.css" ?>
+<filmoteca>
+    
+    <pelicula id = "pelicula1">
+        <portada image = "poster1"></portada>
+        <titulo>Brazil</titulo>
+        <estreno>1985</estreno>
+        <duracion>142 minutos</duracion>
+        <director>Terry Gilliam</director>
+        <reparto>
+            <interprete papel="protagonista">Jonathan Pryce</interprete>
+            <interprete papel="protagonista">Robert De Niro</interprete>
+            <interprete papel="secundario">Michaelk Palin</interprete>
+            <interprete>Bob Hoskins</interprete>
+        </reparto>
+
+    </pelicula>
+
+    <pelicula>
+        
+        <titulo>Annie Hall</titulo>
+        <estreno>2009</estreno>
+        <duracion>93 minutos</duracion>
+        <director>Woody Allen</director>
+        <reparto>
+            <interprete papel="protagonista">Woody Allen</interprete>
+            <interprete papel="protagonista">Diane Keaton</interprete>
+            <interprete papel="secundario">Shelley Duvall</interprete>
+            <interprete>Paul Simon</interprete>
+        </reparto>
+
+    </pelicula>
+
+    <pelicula>
+        
+        <titulo>Avatar</titulo>
+        <estreno>2009</estreno>
+        <duracion>150 minutos</duracion>
+        <director>James Cameron</director>
+        <reparto>
+            <interprete papel="protagonista">Sigourney Weaver</interprete>
+            <interprete papel="protagonista">Sam Worthington</interprete>
+            <interprete papel="secundario">Zoe Saldana</interprete>
+            <interprete>Michelle Rodriguez</interprete>
+        </reparto>
+
+    </pelicula>
+    
+</filmoteca>

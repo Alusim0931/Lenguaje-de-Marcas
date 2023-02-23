@@ -1,0 +1,87 @@
+filmoteca{
+    background: #ffd700;
+    font-size: medium;
+    display: block;
+}
+
+pelicula{
+    display: block;
+    font-size: 14pt;
+    margin-top: 8px;
+}
+
+titulo::before{
+    content: "Título: ";
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+titulo{
+    display: block;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+estreno, duracion{
+    display: block;
+    text-indent: 2em;
+    color: blue;
+    display: none;
+    /*visibility: hidden;*/
+}
+
+director{
+    display: block;
+    font-size: small;
+    font-style: italic;
+    text-indent: 2em;
+    color: green;
+}
+
+reparto::before{
+    content: "Reparto: ";
+    text-decoration: underline;
+}
+
+reparto{
+    display: block;
+}
+
+interprete{
+    display: block;
+    text-indent: 3em;
+    color: purple;
+}
+
+interprete[papel="protagonista"]{
+    font-style: italic;
+    font-weight: bold;
+}
+
+interprete[papel="protagonista"]::after{
+    content: " (Protagonista) ";
+    font-size: x-small;
+}
+
+interprete[papel="secundario"]::after{
+    content: " (Secundario) ";
+    font-size: x-small;
+}
+
+#pelicula1{
+    position: relative;
+    background-color: rgb(230, 157, 157);
+}
+
+portada{
+    display: block;
+    width: 200px;
+    height: 272px;
+}
+
+portada[image = "poster1"]{
+    display: block;
+    background-image: url("brazil_MoviePoster.jpg");
+    margin-right: 10px;
+}
