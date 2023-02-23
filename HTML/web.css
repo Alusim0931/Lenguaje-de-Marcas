@@ -1,0 +1,32 @@
+h1 {
+  color: orange;
+  text-align: center;
+  font: oblique bold 520% cursive;
+}
+
+h2 {
+  text-align: center;
+  font: 150% arial;
+}
+p {
+ font: 100% arial;
+
+}
+
+
+
+
+
+
+
+
+
+
+#Aldia {
+  position: absolute;
+  width: 1000px;
+  left: 250px;
+  top: 9px;
+  z-index: -1;
+  background-size: %;
+}
