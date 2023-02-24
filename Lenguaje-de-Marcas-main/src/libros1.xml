@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="libros1.css"?>
+
+<libros>
+     <libreria>
+   	    <nombre>Casa del Libro</nombre>
+   		    <libro>
+           		<titulo>XML imprescindible</titulo>
+              	<portada imagen="1.jpg"></portada>
+              	<isbn>9788441518124</isbn>
+           		<nivel_de_profundidad>Avanzado</nivel_de_profundidad>
+           		<autores>Elliotte Rusty y W. Scott Means</autores>
+           		<editorial>Anaya</editorial>
+           		<fecha_de_publicacion>04/05/2005</fecha_de_publicacion>
+           	    <precio moneda="euro">61,50</precio>
+          	 
+     	</libro>
+   		<libro>
+           		 <titulo>XML para dummies</titulo>
+              	<portada imagen="2.jpg"></portada>
+              	<isbn>9789968370189</isbn>
+           		 <nivel_de_profundidad>Básico</nivel_de_profundidad>
+           		 <autores>Frank Boumphrey</autores>
+           		 <editorial>ST Editorial</editorial>
+           		 <fecha_de_publicacion>24/06/2001</fecha_de_publicacion>
+           		 <precio moneda="euro">25</precio>
+   	</libro>
+   
+   		<libro>
+           		 <titulo>Programación avanzada con XML</titulo>
+              	<portada imagen="3.jpg"></portada>
+              	<isbn>9789701036723</isbn>
+           		 <nivel_de_profundidad>Avanzado</nivel_de_profundidad>
+           		 <autores>Fabio Arciniegas</autores>
+           		 <editorial>McGraw-Hill</editorial>
+           		 <fecha_de_publicacion>09/10/2002</fecha_de_publicacion>
+           		 <precio moneda="euro">65,95</precio>
+     	</libro>
+     </libreria>
+
+     <libreria>
+    	<nombre>Amazon</nombre>
+   	 	<libro>
+           		 <titulo>XML Práctico</titulo>
+              	<portada imagen="4.jpg"></portada>
+              	<isbn>9782746097360</isbn>
+           		 <nivel_de_profundidad>Intermedio</nivel_de_profundidad>
+           		 <autores>Thierry Boulanger</autores>
+           		 <editorial>Eni</editorial>
+           		 <fecha_de_publicacion>17/09/2015</fecha_de_publicacion>
+           		 <precio moneda="euro">28,40</precio>
+              	 
+   		 </libro>
+     		 <libro>
+           		 <titulo>XML, Manuales Imprescindibles</titulo>
+              	<portada imagen="5.jpg"></portada>
+              	<isbn>9788441515765</isbn>
+           		 <nivel_de_profundidad>Avanzado</nivel_de_profundidad>
+           		 <autores>Juan Diego Gutiérrez Gallardo</autores>
+           		 <editorial>Anaya</editorial>
+           		 <fecha_de_publicacion>11/04/2005</fecha_de_publicacion>
+           		 <precio moneda="euro">29</precio>
+            	 
+   		  </libro>
+   	    	<libro>
+           		 <titulo>XML, Edición revisada y ampliada</titulo>
+              	<portada imagen="3.jpg"></portada>
+              	<isbn>9788441518261</isbn>
+           		 <nivel_de_profundidad>Intermedio</nivel_de_profundidad>
+           		 <autores>Óscar González</autores>
+           		 <editorial>Anaya</editorial>
+           		 <fecha_de_publicacion>04/04/2005</fecha_de_publicacion>
+           		 <precio moneda="euro">14,91</precio>
+                 	 
+   		  </libro>
+      </libreria>
+</libros>

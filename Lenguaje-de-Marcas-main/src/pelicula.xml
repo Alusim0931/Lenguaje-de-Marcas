@@ -1,0 +1,8 @@
+<?xml-stylesheet type="text/css" href="pelicula.css"?>
+<pelicula id = "pelicula2">
+    <portada imagen ="2"></portada>
+    <titulo>Annie Hall</titulo>
+    <estreno>2009</estreno>
+    <duracion>93 minutos</duracion>
+    <director>Woody Allen</director>
+</pelicula> 

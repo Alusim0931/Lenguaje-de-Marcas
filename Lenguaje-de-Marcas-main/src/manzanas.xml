@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="manzanas.css"?>
+<manzanas>
+    <manzana>
+        <tipo>Ralls Genet</tipo>
+        <pais_origen>Estados Unidos</pais_origen>
+        <color>Rojo</color>
+        <foto>rallsgenet.jpg</foto>
+    </manzana>
+    <manzana>
+        <tipo>Fuji</tipo>
+        <pais_origen>Japón</pais_origen>
+        <color>Rojo</color>
+        <foto>fuji.jpg</foto>
+    </manzana>
+    <manzana>
+        <tipo>Golden</tipo>
+        <pais_origen>Estados Unidos</pais_origen>
+        <color>Amarillento</color>
+        <foto>golden.jpg</foto>
+    </manzana>
+    <manzana>
+        <tipo>Granny Smith</tipo>
+        <pais_origen>Australia</pais_origen>
+        <color>Verde</color>
+        <foto>grannysmith.jpg</foto>
+    </manzana>
+    <manzana>
+        <tipo>Reineta</tipo>
+        <pais_origen>Francia</pais_origen>
+        <color>Amarillo</color>
+        <foto>reintea.jpg</foto>
+    </manzana>
+</manzanas>

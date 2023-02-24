@@ -1,0 +1,39 @@
+Manzanas{
+    background-color: rgb(46, 44, 36);
+    
+}
+
+manzana{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+variedad::before{
+    content: "Variedad: ";
+}
+
+variedad{
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    border: 1px solid rgb(117, 97, 97);
+}
+
+procedencia{
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    border: 1px solid rgb(117, 97, 97);
+}
+
+color, sabor, textura{
+    display: block;
+    
+    margin: 2px;
+    padding: 2px;
+}

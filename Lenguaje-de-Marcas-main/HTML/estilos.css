@@ -1,0 +1,69 @@
+p {color: red; font-size: 20; font-family: 'Trebuchet MS'}
+
+body {
+
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  border: 2px solid red;
+  border-radius: 5px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+
+}
+
+label {
+    color: black;
+    font-size: 18px;
+}
+
+.destacado {
+    color: black;
+    text-align: end;
+    font-size: 20px;
+}
+
+#casa{
+    color: black;
+}
+
+#puerco{
+    font-size: 7px;
+    text-align: end;
+
+}
+
+/* Esto es un comentario */
+
+h1{
+    border: 2px solid #ff6347;
+    background-color: rgba(98, 37, 187, 0.581);
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+#mayonesa{
+    color: blue;
+}
+
+#cumple{
+    color: green;
+}
+
+#barra{
+    color: violet;
+}
+
+#color{
+    color: #610B21;
+}

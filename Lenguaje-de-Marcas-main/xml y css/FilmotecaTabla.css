@@ -1,0 +1,19 @@
+filmoteca{
+    display: inline-table;
+    border: black solid;
+    background-color: aqua;
+    font-size: 14pt;
+    margin-top: 4em;
+    margin-left: 4em;
+}
+
+pelicula{
+    display: table-row;
+    background-color: cadetblue;
+}
+
+titulo, estreno, duracion, director{
+    display: table-cell;
+    border: thin solid;
+    text-indent: 2em;
+}

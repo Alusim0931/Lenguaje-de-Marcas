@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Manzanas.css" ?>
+<Manzanas>
+
+  <manzana>
+    <variedad>Fuji</variedad>  
+    <procedencia>Fujisaki (Japón)</procedencia>
+    <color>Rojo y/o amarillo</color>
+    <sabor>Dulce</sabor>
+    <textura>Jugosa y crujiente</textura>
+  </manzana>
+
+  <manzana>
+    <variedad>Granny Smith</variedad>  
+    <procedencia>Australia</procedencia>
+    <color>Verde</color>
+    <sabor>Ácido</sabor>
+    <textura>Crujiente</textura>
+  </manzana>
+
+  <manzana>
+    <variedad>Golden</variedad>  
+    <procedencia>Virginia (EEUU)</procedencia>
+    <color>Amarillento con toques dorados</color>
+    <sabor>Ácido al inicio. Dulce al madurar</sabor>
+    <textura>Crujiente</textura>
+  </manzana>
+  
+  <manzana>
+    <variedad>Starking</variedad>  
+    <procedencia>Louisiana (EEUU)</procedencia>
+    <color>Rojo</color>
+    <sabor>Dulce</sabor>
+    <textura>Jugosa </textura>
+  </manzana>
+  
+  <manzana>
+    <variedad>Royal Gala</variedad>  
+    <procedencia>Nueva Zelanda</procedencia>
+    <color>Rojo anaranjado</color>
+    <sabor>Dulce</sabor>
+    <textura>Crujiente y sabrosa</textura>
+  </manzana>
+  
+  <manzana>
+    <variedad>McIntosh</variedad>  
+    <procedencia>Ontario (Canadá)</procedencia>
+    <color>Rojizo con toques verdes</color>
+    <sabor>Ácido</sabor>
+    <textura>Crujiente</textura>
+  </manzana>  
+
+</Manzanas>

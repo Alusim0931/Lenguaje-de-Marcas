@@ -1,0 +1,30 @@
+<?xml-stylesheet type="text/css" href="peliculas_css_1.css"?>
+<filmoteca>
+    <!--<pelicula>
+        <titulo>Brazil</titulo>
+        <estreno>1985</estreno>
+        <duracion>142 minutos</duracion>
+        <director>Terry Gilliam</director>-->
+       <!--<reparto>
+            <interprete papel="protagonista">Jonathan Pryce</interprete>
+            <interprete papel="protagonista">Robert De Niro</interprete>
+            <interprete papel="secundario">Michaelk Palin</interprete>
+            <interprete>Bob Hoskins</interprete>
+        </reparto>
+    </pelicula>-->
+
+    <pelicula id = "pelicula2">
+        <portada imagen ="2"></portada>
+        <titulo>Annie Hall</titulo>
+        <estreno>2009</estreno>
+        <duracion>93 minutos</duracion>
+        <director>Woody Allen</director>
+    </pelicula>
+    
+    <!--<pelicula>
+        <titulo>Avatar</titulo>
+        <estreno>2009</estreno>
+        <duracion>150 minutos</duracion>
+        <director>James Cameron</director>
+    </pelicula>-->
+</filmoteca>
